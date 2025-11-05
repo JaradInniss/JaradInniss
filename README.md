@@ -2,11 +2,10 @@
 **Jarad Inniss**
 ## Hello👋
 - ### 🔭 Currently Working On:
-  - Android AI Chatbox
   - Portfolio Website
 - ### 🌱 Currently Learning:
-  - Javascript
-  - React
+  - Frontend Web Development
+  - Full Stack Web Development
   - Android Studio
 - ### 📫 Contact Me:
   - Phone : [BBD] +1(246)257-5695  ||  [CN] +86-17712604635
@@ -16,3 +15,4 @@
 - ### ⚡ I'm Interested In:
   - Music
   - Photography
+  - Badminton
